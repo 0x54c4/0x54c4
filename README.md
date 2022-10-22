@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ShuangYue1121
+- 👀 I’m interested in ...
+- Python,Scratch,Cpp
+- 🌱 I’m currently learning ...
+- Cpp,Python,Scratch
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- https://space.bilibili.com/457271536
+
+<!---
+ShuangYue1121/ShuangYue1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
